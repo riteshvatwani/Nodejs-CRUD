@@ -1,0 +1,5 @@
+
+> nodeapp@0.0.0 start /var/www/html/doctorapi
+> node ./bin/www
+
+Connection with database succeeded.
